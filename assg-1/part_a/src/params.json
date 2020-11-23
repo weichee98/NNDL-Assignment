@@ -1,0 +1,10 @@
+{
+    "input_shape": [
+        21
+    ],
+    "num_classes": 3,
+    "batch_size": 8,
+    "num_neurons": 10,
+    "alpha": 0.01,
+    "beta": 1e-12
+}

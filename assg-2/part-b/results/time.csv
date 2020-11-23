@@ -1,0 +1,5 @@
+,No Dropout,Dropout
+Char CNN,102,97
+Char GRU,1708,1584
+Word CNN,229,228
+Word GRU,1839,1850

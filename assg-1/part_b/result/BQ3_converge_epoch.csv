@@ -1,0 +1,5 @@
+,3-level,4-level,4-level+Dropout,5-level,5-level+Dropout
+mse,3874,2797,6123,2679,6840
+val_mse,3245,2465,3081,1950,3587
+loss,7669,9557,9618,9774,9777
+val_loss,6849,9558,9569,9774,9771
